@@ -10,9 +10,9 @@
 
 #### Alterar arquivos:
 
-1. Config.php 
+#### Config.php 
 * ROOT para seu endereço web
-1. Database.php   
+#### Database.php   
 * HOST endereço do banco de dados(padrão 'localhost')
 * NAME nome do banco (padrão 'noticias')
 * USER usuario do banco(padrão 'root')

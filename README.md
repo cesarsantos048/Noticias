@@ -5,7 +5,7 @@
 ### Para utilização:
 
 #### Crie banco de dados:
-**noticias**
+* noticias
 
 #### Alterar arquivos:
 

@@ -10,11 +10,13 @@
 
 #### Alterar arquivos:
 
-* Config.php -> ROOT para seu endereço web
-* Database.php  -> HOST endereço do banco de dados(padrão 'localhost')
-                -> NAME nome do banco (padrão 'noticias')
-                -> USER usuario do banco(padrão 'root')
-                -> PASS usuario do banco(padrão '')
+1. Config.php 
+* ROOT para seu endereço web
+1. Database.php   
+* HOST endereço do banco de dados(padrão 'localhost')
+* NAME nome do banco (padrão 'noticias')
+* USER usuario do banco(padrão 'root')
+* PASS usuario do banco(padrão '')
 
 Utilize comando abaixo para baixar as dependências
 

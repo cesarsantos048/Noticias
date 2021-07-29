@@ -8,7 +8,7 @@ use \PDOException;
 class Database{
 
   const HOST = 'localhost';
-  const NAME = 'projeto';
+  const NAME = 'noticias';
   const USER = 'root';
   const PASS = '';
 

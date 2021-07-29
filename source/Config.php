@@ -1,6 +1,6 @@
 <?php
 
-define("ROOT", "http://ajax");
+define("ROOT", "http://noticias");
 define("THEME", "navbar-dark bg-danger");
 
 

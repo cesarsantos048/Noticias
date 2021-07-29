@@ -38,7 +38,7 @@
             </div>
             <br>
             <button type="submit"
-                    data-action="<?= $router->route("web.destroy"); ?>"data-id="<?= $notice->id ?>" class="btn btn-primary">Salvar</button>
+                    data-action="<?= $router->route("web.destroy"); ?>"data-id="<?= $notice->id ?>" class="btn btn-primary col-sm-2">Salvar</button>
         </form>
         <br>
 

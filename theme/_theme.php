@@ -36,7 +36,6 @@
 
   <div class="text-center p-4 border-top">
     JAMSOFT Tecnologia © 2021
-    <a class="text-reset fw-bold" href="https://jamsoft.com.br/">jamsoft.com.br</a>
   </div>
 </footer>
 

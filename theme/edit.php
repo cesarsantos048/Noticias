@@ -37,9 +37,17 @@
                 </div>
             </div>
             <br>
+            <div class="btn-group">
             <button type="submit"
-                    data-action="<?= $router->route("web.destroy"); ?>"data-id="<?= $notice->id ?>" class="btn btn-primary col-sm-2">Salvar</button>
-        </form>
+                    data-action="<?= $router->route("web.destroy"); ?>" 
+                    data-id="<?= $notice->id ?>" class="btn btn-primary">Salvar</button>
+       
+            </div>
+            <div class="btn-group">
+            <a href="/" class="btn btn-secondary">Voltar</a>
+            </div>
+
+             </form>
         <br>
 
 <?php $v->start("js"); ?>

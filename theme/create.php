@@ -38,7 +38,12 @@
             </div>
             <br>
             
-            <button type="submit" class="btn btn-primary col-sm-2">Salvar</button>
+            <div class="btn-group">
+            <button type="submit" class="btn btn-primary">Salvar</button>
+            </div>
+            <div class="btn-group">
+            <a href="/" class="btn btn-secondary">Voltar</a>
+            </div>
 
   
 </form>
